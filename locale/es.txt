@@ -72,6 +72,31 @@ PopupWebFrameBehaviour_82D9C382_B0CF_A337_41C2_25114A988ADF.url = https://grupoe
 PopupWebFrameBehaviour_853DADF7_B0CF_E6DC_41C2_CBEA90D684BD.url = https://grupoeurosa.com/ar/producto/z10?exhibidor=true&color=Z10T
 PopupWebFrameBehaviour_82A41EED_B0F0_A2CC_41DE_426A230CD6C7.url = https://grupoeurosa.com/ar/producto/z10?exhibidor=true&color=Z10T
 
+## E-Learning
+
+### Nombre Puntuación
+score1.label = Puntuación 1
+
+### Pantalla Fin de Tiempo
+quizTimeout_CB8E706A_D047_DCDD_41CE_6494CC4D36EA.title = - TIMEOUT -
+quizTimeout_CB8E706A_D047_DCDD_41CE_6494CC4D36EA.repeat = Repeat
+quizTimeout_CB8E706A_D047_DCDD_41CE_6494CC4D36EA.score = View Score
+
+### Pantalla Pregunta
+quizQuestion_CB8C906A_D047_DCDD_41E1_EA1A88CFF565.ok = OK
+
+### Pantalla Reporte
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.title = - SCORE -
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.completion = Completed
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.questionsCorrect = Correct
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.downloadCSV = Download .csv
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.questionsIncorrect = Incorrect
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.items = Items Found
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.questions = Questions
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.repeat = Repeat
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.submitToLMS = Submit
+quizScore_CBB2006B_D047_DCD3_41DE_75CA8A8CD470.elapsedTime = Time
+
 ## Media
 
 ### Título
